@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "a36d7a074f8230bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50d64449bba8bcd",
+        "type": "split",
+        "children": [
+          {
+            "id": "13b7c584c38340a1",
+            "type": "split",
+            "dimension": 64.16464891041163,
+            "children": [
+              {
+                "id": "2be1a642b08d7d9a",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5e90223234640b8d",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "Untitled 1.canvas",
+                        "viewState": {
+                          "x": -9.3,
+                          "y": 104.15999999999998,
+                          "zoom": 0,
+                          "snapToGrid": false
+                        }
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "a1936024ba3179b5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2023-02-23.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "3dc07350bd78c2c9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1920ab1eca97a8b0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "95c101ad20adb0c4",
+            "type": "tabs",
+            "dimension": 35.83535108958838,
+            "children": [
+              {
+                "id": "3a444154e776aac2",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53c8d35a9d464650",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d66c8b6af5045f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36d90cf40f4adbe5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e66b422dfe659f76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcde30334c9a009f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c175106ce24ab382",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ad62707f012fcfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5720f3ba849a4e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b39534951de8d34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6174febeef3da573",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7f36191c10900af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.canvas"
+              }
+            }
+          },
+          {
+            "id": "325384cc81907f90",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5e90223234640b8d",
+  "lastOpenFiles": [
+    "2023-02-23.md",
+    "2023-02-22.md",
+    "Untitled mindmap 1.md",
+    "Untitled mindmap.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "20230222.md"
+  ]
+}
